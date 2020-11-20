@@ -1,4 +1,4 @@
-@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css);
+@import url(https://raw.githubusercontent.com/Xgod2205/betterdiscordthemes/import/builder.css);
 
 :root {
 	--columns:			3;							/* default:	3					(amount of servercolumns)																		*/
